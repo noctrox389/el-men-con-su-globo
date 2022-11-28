@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "real-sleep",
+		"player1": "gf",
+		"player2": "realsleep",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"real sleep events",
+						"1",
+						"SEQUENCE 1"
+					]
+				]
+			],
+			[
+				1600,
+				[
+					[
+						"real sleep events",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"real sleep events",
+						"2",
+						""
+					],
+					[
+						"real sleep events",
+						"1",
+						"SEQ"
+					]
+				]
+			],
+			[
+				53157.5,
+				[
+					[
+						"real sleep events",
+						"1",
+						"SEQUENCE"
+					]
+				]
+			],
+			[
+				53562.5,
+				[
+					[
+						"real sleep events",
+						"1",
+						"SEQUENCE 4"
+					]
+				]
+			],
+			[
+				53900,
+				[
+					[
+						"real sleep events",
+						"10",
+						"t"
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"real sleep events",
+						"10",
+						"f"
+					],
+					[
+						"real sleep events",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				73200,
+				[
+					[
+						"real sleep events",
+						"9",
+						""
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"real sleep events",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				79137.5,
+				[
+					[
+						"real sleep events",
+						"1",
+						"WE ARE OUR OWN GODS"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"real sleep events",
+						"0",
+						""
+					],
+					[
+						"real sleep events",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"real sleep events",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				104600,
+				[
+					[
+						"real sleep events",
+						"1",
+						"THERE ARE NO FACES"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"real sleep events",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"real sleep events",
+						"7",
+						""
+					],
+					[
+						"real sleep events",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"real sleep events",
+						"8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Real Sleep"
+	}
+}
