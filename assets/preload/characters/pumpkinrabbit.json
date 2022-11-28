@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "phase2_sprites idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "phase2_sprites down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "phase2_sprites left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "phase2_sprites up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "phase2_sprites right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase2_sprites",
+	"position": [
+		910,
+		-310
+	],
+	"healthicon": "pump",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		138,
+		47
+	],
+	"camera_position": [
+		-110,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}
