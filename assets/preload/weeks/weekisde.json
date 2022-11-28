@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["abduction", "pump", [103, 174, 175]],
+		["celebration", "partygoer", [105, 157, 121]],
+		["real-sleep", "rs", [171, 186, 183]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "squid",
+
+	"storyName": "Mistful Crimson Morning",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
